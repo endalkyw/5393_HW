@@ -1,0 +1,31 @@
+{
+  "MOI": 8,
+  "N": 100,
+  "seed": 123,
+  "max_time": 50000.0,
+  "max_events": 200000,
+  "stops": {
+    "stealth": {
+      "name": "cI2",
+      "thr": 145
+    },
+    "hijack": {
+      "name": "Cro2",
+      "thr": 55
+    },
+    "use_explicit_stops": true
+  },
+  "counts": {
+    "stealth": 29,
+    "hijack": 70,
+    "none": 1,
+    "other": 0
+  },
+  "probs": {
+    "stealth": 0.29,
+    "hijack": 0.7,
+    "none": 0.01,
+    "other": 0.0
+  },
+  "elapsed_sec": 399.4538826942444
+}
