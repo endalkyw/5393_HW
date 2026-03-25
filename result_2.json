@@ -1,0 +1,64 @@
+{
+  "10": {
+    "MOI": 10,
+    "N": 1000,
+    "seed": 123,
+    "max_time": 50000.0,
+    "max_events": 200000,
+    "stops": {
+      "stealth": {
+        "name": "cI2",
+        "thr": 145
+      },
+      "hijack": {
+        "name": "Cro2",
+        "thr": 55
+      },
+      "use_explicit_stops": true
+    },
+    "counts": {
+      "stealth": 350,
+      "hijack": 650,
+      "none": 0,
+      "other": 0
+    },
+    "probs": {
+      "stealth": 0.35,
+      "hijack": 0.65,
+      "none": 0.0,
+      "other": 0.0
+    },
+    "elapsed_sec": 3365.2289021015167
+  },
+  "9": {
+    "MOI": 9,
+    "N": 1000,
+    "seed": 123,
+    "max_time": 50000.0,
+    "max_events": 200000,
+    "stops": {
+      "stealth": {
+        "name": "cI2",
+        "thr": 145
+      },
+      "hijack": {
+        "name": "Cro2",
+        "thr": 55
+      },
+      "use_explicit_stops": true
+    },
+    "counts": {
+      "stealth": 345,
+      "hijack": 654,
+      "none": 1,
+      "other": 0
+    },
+    "probs": {
+      "stealth": 0.345,
+      "hijack": 0.654,
+      "none": 0.001,
+      "other": 0.0
+    },
+    "elapsed_sec": 3867.078843832016
+  }
+}
